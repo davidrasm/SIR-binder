@@ -5,7 +5,9 @@ dependencies:
   - numpy
   - psutil
   - toolz
+  - scipy
   - matplotlib
+  - seaborn
   - dill
   - pandas
   - partd
